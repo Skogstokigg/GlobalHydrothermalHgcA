@@ -495,6 +495,9 @@ Sequences_bar_plot <- ggplot(all_Sequences) +
 
 
 
+## ------------------------ Fig. 7 - Tree ------------------------ ##
+# The tree was created with iTol
+
 
 
 
