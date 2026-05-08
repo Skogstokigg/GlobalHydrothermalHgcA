@@ -9,7 +9,7 @@ library(tibble)
 library(vegan)
 library(plyr)
 library(pairwiseAdonis)
-library(ape)  # For phylogenetic tree
+library(ape)
 
 
 
